@@ -1,2 +1,2 @@
-# L-gica-com-Js
+# Logica-com-Js
 Aprendendo Lógica com JS
