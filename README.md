@@ -23,4 +23,23 @@ Que são eles (-,+,*,/,**,%)
 
 - [x] Operadores Relacionais
 
+- <
+- >
+- <=
+- >=
+- ==
+- !=
+- ===
 
+- [x] Condições (Simples e compras)
+
+  If : 
+  else: 
+
+  - [x] Condições com switch
+
+   -case
+   -break
+   -default
+
+ 
